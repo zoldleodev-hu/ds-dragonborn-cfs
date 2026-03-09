@@ -1,0 +1,13 @@
+{
+  "key": "all_extra_11",
+  "texture": "dragonsurvival:textures/dragon/custom/all_extra_11.png",
+  "average_hue": 0.49409474536855574,
+  "applicable_species": [
+    "dragonsurvival:dragonborn_cave",
+    "dragonsurvival:dragonborn_forest",
+    "dragonsurvival:dragonborn_sea"
+  ],
+  "applicable_bodies": [
+    "dragonsurvival:dragonborn"
+  ]
+}

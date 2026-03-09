@@ -1,0 +1,11 @@
+{
+  "key": "base_3",
+  "texture": "dragonsurvival:textures/dragon/custom/forest_base_3.png",
+  "average_hue": 0.034366552531987796,
+  "applicable_species": [
+    "dragonsurvival:dragonborn_forest"
+  ],
+  "applicable_bodies": [
+    "dragonsurvival:dragonborn"
+  ]
+}

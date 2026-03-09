@@ -1,0 +1,10 @@
+{
+  "values": [
+    "#dragonsurvival:forest_dragon"
+  ],
+  "remove": [
+    "dragonsurvival:forest_breath",
+    "dragonsurvival:sun_breath",
+    "dragonsurvival:forest_claws_and_teeth"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "values": [
+    "#dragonsurvival:cave_dragon"
+  ],
+  "remove": [
+    "dragonsurvival:nether_breath",
+    "dragonsurvival:furnace_heat",
+    "dragonsurvival:cave_claws_and_teeth"
+  ]
+}

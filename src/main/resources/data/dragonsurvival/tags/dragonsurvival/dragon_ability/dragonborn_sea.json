@@ -1,0 +1,9 @@
+{
+  "values": [
+    "#dragonsurvival:sea_dragon"
+  ],
+  "remove": [
+    "dragonsurvival:storm_breath",
+    "dragonsurvival:sea_claws_and_teeth"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "values": [
+    "#dragonsurvival:forest_dragon"
+  ],
+  "remove": [
+    "dragonsurvival:item_blacklist",
+    "dragonsurvival:fear"
+  ]
+}

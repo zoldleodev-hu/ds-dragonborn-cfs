@@ -1,0 +1,13 @@
+{
+  "key": "extra_horns_11",
+  "texture": "dragonsurvival:textures/dragon/custom/extra_horns_11.png",
+  "average_hue": 0.13291139240506328,
+  "applicable_species": [
+    "dragonsurvival:dragonborn_cave",
+    "dragonsurvival:dragonborn_forest",
+    "dragonsurvival:dragonborn_sea"
+  ],
+  "applicable_bodies": [
+    "dragonsurvival:dragonborn"
+  ]
+}

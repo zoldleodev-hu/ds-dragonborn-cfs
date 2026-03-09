@@ -1,0 +1,11 @@
+{
+  "species": "dragonsurvival:dragonborn_sea",
+  "stage": "dragonsurvival:dragonborn_ancient",
+  "model": "dragonsurvival:dragonborn",
+  "parts": {
+    "base": "base_4",
+    "bottom": "bottom_3",
+    "horns": "horns_21",
+    "spikes": "spikes_3"
+  }
+}

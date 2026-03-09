@@ -1,0 +1,9 @@
+{
+  "values": {
+    "dragonsurvival:dragonborn": {
+      "dragonsurvival:dragonborn_cave": "dragonsurvival:textures/gui/custom/body/center/default.png",
+      "dragonsurvival:dragonborn_forest": "dragonsurvival:textures/gui/custom/body/center/default.png",
+      "dragonsurvival:dragonborn_sea": "dragonsurvival:textures/gui/custom/body/center/default.png"
+    }
+  }
+}

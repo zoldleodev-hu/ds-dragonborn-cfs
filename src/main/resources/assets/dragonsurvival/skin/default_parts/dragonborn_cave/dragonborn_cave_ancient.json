@@ -1,0 +1,12 @@
+{
+  "species": "dragonsurvival:dragonborn_cave",
+  "stage": "dragonsurvival:dragonborn_ancient",
+  "model": "dragonsurvival:dragonborn",
+  "parts": {
+    "base": "base_3",
+    "bottom": "bottom_3",
+    "horns": "horns_20",
+    "spikes": "spikes_2",
+    "extra": "cave_extra_tail_3"
+  }
+}

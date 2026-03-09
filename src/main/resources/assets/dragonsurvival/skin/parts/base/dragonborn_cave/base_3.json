@@ -1,0 +1,11 @@
+{
+  "key": "base_3",
+  "texture": "dragonsurvival:textures/dragon/custom/cave_base_3.png",
+  "average_hue": 0.06478439970766062,
+  "applicable_species": [
+    "dragonsurvival:dragonborn_cave"
+  ],
+  "applicable_bodies": [
+    "dragonsurvival:dragonborn"
+  ]
+}

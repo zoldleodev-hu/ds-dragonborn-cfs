@@ -1,0 +1,13 @@
+{
+  "key": "horns_38",
+  "texture": "dragonsurvival:textures/dragon/custom/horns_38.png",
+  "average_hue": 0.06130268199233721,
+  "applicable_species": [
+    "dragonsurvival:dragonborn_cave",
+    "dragonsurvival:dragonborn_forest",
+    "dragonsurvival:dragonborn_sea"
+  ],
+  "applicable_bodies": [
+    "dragonsurvival:dragonborn"
+  ]
+}

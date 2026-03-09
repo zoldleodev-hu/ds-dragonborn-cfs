@@ -1,0 +1,11 @@
+{
+  "key": "base_8",
+  "texture": "dragonsurvival:textures/dragon/custom/sea_base_8.png",
+  "average_hue": 0.05134076374119919,
+  "applicable_species": [
+    "dragonsurvival:dragonborn_sea"
+  ],
+  "applicable_bodies": [
+    "dragonsurvival:dragonborn"
+  ]
+}

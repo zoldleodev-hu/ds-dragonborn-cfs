@@ -1,0 +1,14 @@
+{
+  "species": "dragonsurvival:dragonborn_forest",
+  "stage": "dragonsurvival:dragonborn_young",
+  "model": "dragonsurvival:dragonborn",
+  "parts": {
+    "base": "base_0",
+    "bottom": "bottom_3",
+    "horns": "horns_48",
+    "spikes": "spikes_5",
+    "extra": "forest_extra_wings_2",
+    "extra1": "forest_extra_body_2",
+    "extra2": "forest_extra_tail_8"
+  }
+}

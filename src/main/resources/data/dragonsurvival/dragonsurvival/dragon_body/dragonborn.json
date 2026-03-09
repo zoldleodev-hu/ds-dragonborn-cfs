@@ -1,0 +1,32 @@
+{
+  "model": "dragonsurvival:dragonborn",
+  "animation": "dragonsurvival:dragonborn",
+  "can_hide_wings": true,
+  "bones_to_hide_for_toggle": ["WingLeft", "WingRight"],
+  "emotes": "dragonsurvival:dragonborn_empty",
+  "default_icon": "dragonsurvival:textures/gui/custom/body/center/default.png",
+  "modifiers": [],
+  "crouch_height_ratio": 0.83333333,
+  "mounting_offset": {
+    "dragon_offset": [
+      0.0,
+      0.35,
+      0.2
+    ],
+    "human_offset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "offset_per_scale_above_one": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "scaling_proportions": {
+    "eye_height": 1.62,
+    "height": 1.8,
+    "width": 0.6
+  }
+}

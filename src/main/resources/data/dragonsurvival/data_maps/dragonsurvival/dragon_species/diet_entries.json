@@ -1,0 +1,325 @@
+{
+  "replace": false,
+  "values": {
+    "dragonsurvival:dragonborn_cave": {
+      "neoforge:conditions": [
+        {
+          "type": "dragonsurvival:registered",
+          "registry": "dragonsurvival:dragon_species",
+          "value": "dragonsurvival:dragonborn_cave"
+        }
+      ],
+      "neoforge:value": [
+        {
+          "items": "#minecraft:coals",
+          "properties": {
+            "eat_seconds": 0.8,
+            "nutrition": 1,
+            "saturation": 1.0
+          }
+        },
+        {
+          "items": "dragonsurvival:charged_coal",
+          "properties": {
+            "nutrition": 3,
+            "saturation": 1.0
+          }
+        },
+        {
+          "items": "dragonsurvival:charred_meat",
+          "properties": {
+            "nutrition": 3,
+            "saturation": 1.0
+          }
+        },
+        {
+          "items": "dragonsurvival:cave_dragon_treat",
+          "properties": {
+            "can_always_eat": true,
+            "nutrition": 2,
+            "saturation": 4.0
+          }
+        },
+        {
+          "items": "dragonsurvival:charred_seafood",
+          "properties": {
+            "nutrition": 3,
+            "saturation": 5.0
+          }
+        },
+        {
+          "items": "dragonsurvival:charred_vegetable",
+          "properties": {
+            "nutrition": 4,
+            "saturation": 4.0
+          }
+        },
+        {
+          "items": "dragonsurvival:charred_mushroom",
+          "properties": {
+            "nutrition": 4,
+            "saturation": 4.0
+          }
+        },
+        {
+          "items": "dragonsurvival:charged_soup",
+          "properties": {
+            "can_always_eat": true,
+            "nutrition": 8,
+            "saturation": 8.0
+          }
+        },
+        {
+          "items": "dragonsurvival:hot_dragon_rod",
+          "properties": {
+            "can_always_eat": true,
+            "nutrition": 2,
+            "saturation": 8.0
+          }
+        },
+        {
+          "items": "dragonsurvival:explosive_copper",
+          "properties": {
+            "nutrition": 3,
+            "saturation": 2.0
+          }
+        },
+        {
+          "items": "dragonsurvival:double_quartz",
+          "properties": {
+            "nutrition": 4,
+            "saturation": 3.0
+          }
+        },
+        {
+          "items": "dragonsurvival:quartz_explosive_copper",
+          "properties": {
+            "nutrition": 6,
+            "saturation": 9.0
+          }
+        },
+        {
+          "items": "create:blaze_cake",
+          "properties": {
+            "nutrition": 6,
+            "saturation": 6.0
+          }
+        },
+        {
+          "items": "create:creative_blaze_cake",
+          "properties": {
+            "nutrition": 40,
+            "saturation": 40.0
+          }
+        }
+      ]
+    },
+    "dragonsurvival:dragonborn_forest": {
+      "neoforge:conditions": [
+        {
+          "type": "dragonsurvival:registered",
+          "registry": "dragonsurvival:dragon_species",
+          "value": "dragonsurvival:dragonborn_forest"
+        }
+      ],
+      "neoforge:value": [
+        {
+          "items": "#c:foods/raw_meat",
+          "properties": {
+            "eat_seconds": 1.2,
+            "nutrition": 4,
+            "saturation": 2.0
+          }
+        },
+        {
+          "items": "#c:foods/berry",
+          "properties": {
+            "eat_seconds": 1.2,
+            "nutrition": 1,
+            "saturation": 1.0
+          }
+        },
+        {
+          "items": "#c:mushrooms",
+          "properties": {
+            "eat_seconds": 0.8,
+            "nutrition": 1,
+            "saturation": 1.0
+          }
+        },
+        {
+          "items": "minecraft:rotten_flesh",
+          "properties": {
+            "nutrition": 1,
+            "saturation": 2.0
+          }
+        },
+        {
+          "items": "minecraft:spider_eye",
+          "properties": {
+            "nutrition": 3,
+            "saturation": 4.0
+          }
+        },
+        {
+          "items": "minecraft:rabbit",
+          "properties": {
+            "nutrition": 5,
+            "saturation": 4.0
+          }
+        },
+        {
+          "items": "minecraft:poisonous_potato",
+          "properties": {
+            "nutrition": 1,
+            "saturation": 2.0
+          }
+        },
+        {
+          "items": "minecraft:chorus_fruit",
+          "properties": {
+            "nutrition": 6,
+            "saturation": 6.0
+          }
+        },
+        {
+          "items": "minecraft:honey_bottle",
+          "properties": {
+            "nutrition": 4,
+            "saturation": 1.0,
+            "using_converts_to": {
+              "id": "minecraft:glass_bottle"
+            }
+          }
+        },
+        {
+          "items": "dragonsurvival:forest_dragon_treat",
+          "properties": {
+            "nutrition": 2,
+            "saturation": 4.0
+          }
+        },
+        {
+          "items": "dragonsurvival:meat_chorus_mix",
+          "properties": {
+            "nutrition": 8,
+            "saturation": 5.0
+          }
+        },
+        {
+          "items": "dragonsurvival:meat_wild_berries",
+          "properties": {
+            "nutrition": 8,
+            "saturation": 6.0
+          }
+        },
+        {
+          "items": "dragonsurvival:smelly_meat_porridge",
+          "properties": {
+            "nutrition": 4,
+            "saturation": 6.0
+          }
+        },
+        {
+          "items": "dragonsurvival:diamond_chorus",
+          "properties": {
+            "nutrition": 10,
+            "saturation": 8.0
+          }
+        },
+        {
+          "items": "dragonsurvival:luminous_ointment",
+          "properties": {
+            "nutrition": 3,
+            "saturation": 2.0
+          }
+        },
+        {
+          "items": "dragonsurvival:sweet_sour_rabbit",
+          "properties": {
+            "nutrition": 6,
+            "saturation": 4.0
+          }
+        },
+        {
+          "items": "additionaldragons:cursed_marrow",
+          "properties": {
+            "eat_seconds": 0.8,
+            "nutrition": 2,
+            "saturation": 1.0
+          }
+        },
+        {
+          "items": "create:chocolate_glazed_berries",
+          "properties": {
+            "eat_seconds": 0.8,
+            "nutrition": 5,
+            "saturation": 8.0
+          }
+        }
+      ]
+    },
+    "dragonsurvival:dragonborn_sea": {
+      "neoforge:conditions": [
+        {
+          "type": "dragonsurvival:registered",
+          "registry": "dragonsurvival:dragon_species",
+          "value": "dragonsurvival:dragonborn_sea"
+        }
+      ],
+      "neoforge:value": [
+        {
+          "items": "minecraft:kelp",
+          "properties": {
+            "eat_seconds": 1.0,
+            "nutrition": 1,
+            "saturation": 1.0
+          }
+        },
+        {
+          "items": "minecraft:pufferfish",
+          "properties": {
+            "nutrition": 4,
+            "saturation": 4.0
+          }
+        },
+        {
+          "items": "dragonsurvival:sea_dragon_treat",
+          "properties": {
+            "nutrition": 2,
+            "saturation": 4.0
+          }
+        },
+        {
+          "items": "dragonsurvival:seasoned_fish",
+          "properties": {
+            "nutrition": 7,
+            "saturation": 6.0
+          }
+        },
+        {
+          "items": "dragonsurvival:golden_coral_pufferfish",
+          "properties": {
+            "nutrition": 7,
+            "saturation": 8.0
+          }
+        },
+        {
+          "items": "dragonsurvival:frozen_raw_fish",
+          "properties": {
+            "can_always_eat": true,
+            "nutrition": 2,
+            "saturation": 1.0
+          }
+        },
+        {
+          "items": "dragonsurvival:golden_turtle_egg",
+          "properties": {
+            "nutrition": 8,
+            "saturation": 7.0
+          }
+        }
+      ]
+    }
+  }
+}
