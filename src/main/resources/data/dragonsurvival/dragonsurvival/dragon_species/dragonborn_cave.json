@@ -1,6 +1,6 @@
 {
   "custom_stage_progression": ["dragonsurvival:dragonborn_young", "dragonsurvival:dragonborn_adult", "dragonsurvival:dragonborn_ancient"],
-  "bodies": ["dragonsurvival:dragonborn"],
+  "bodies": ["dragonsurvival:dragonborn", "dragonsurvival:dragonborn_notail"],
   "misc_resources": {
     "ability_bar": "dragonsurvival:textures/gui/custom/casting_bars/cave/cast_bar.png",
     "altar_banner": "dragonsurvival:textures/gui/custom/altar/dragonborn_cave/cave_altar_icon.png",

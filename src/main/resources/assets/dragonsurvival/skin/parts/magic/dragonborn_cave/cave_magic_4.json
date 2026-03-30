@@ -1,0 +1,12 @@
+{
+  "key": "cave_magic_4",
+  "texture": "dragonsurvival:textures/dragon/custom/cave_magic_4.png",
+  "average_hue": 0.1309968951357127,
+  "applicable_species": [
+    "dragonsurvival:dragonborn_cave"
+  ],
+  "applicable_bodies": [
+    "dragonsurvival:dragonborn",
+    "dragonsurvival:dragonborn_notail"
+  ]
+}
