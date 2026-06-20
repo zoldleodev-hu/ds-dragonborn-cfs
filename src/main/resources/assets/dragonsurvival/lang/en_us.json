@@ -10,8 +10,8 @@
   "dragon_body.dragonsurvival.dragonborn.wings.desc": "Show wings",
 
   "dragon_species.dragonsurvival.dragonborn_cave": "Cave Dragonborn",
-  "dragon_species.dragonsurvival.dragonborn_cave.altar.desc": "§7■ §6Cave Dragonborn§r§7 are the descendants of §fCave Dragons§r§7 and §fHumans§r§7. They combine the strength and weaknesses of both their lineages.\n\n§2■ Features:§f§r§7 fire resistance, lava magic, faster movement on stone and hot blocks.\n§4■ Weakness:§r water.\n§6■ Diet:§r %s",
-  "dragon_species.dragonsurvival.dragonborn_cave.banner.desc": "§7■ §6Cave Dragonborn§r§7 are the descendants of §fCave Dragons§r§7 and §fHumans§r§7. You combine the strength and weaknesses of both your lineages.\n\n§7■ §cWater§r§7 as a chemical element is not compatible with you.",
+  "dragon_species.dragonsurvival.dragonborn_cave.altar.desc": "§7■ §6Cave Dragonborn§r§7 are the descendants of §fCave Dragons§r§7 and §fHumans§r§7. They combine the strengths and weaknesses of both their lineages.\n\n§2■ Features:§f§r§7 fire resistance, lava magic, faster movement on stone and hot blocks.\n§4■ Weakness:§r water.\n§6■ Diet:§r %s",
+  "dragon_species.dragonsurvival.dragonborn_cave.banner.desc": "§7■ §6Cave Dragonborn§r§7 are the descendants of §fCave Dragons§r§7 and §fHumans§r§7. You combine the strengths and weaknesses of both your lineages.\n\n§7■ §cWater§r§7 as a chemical element is not compatible with you.",
 
   "skin_part.dragonsurvival.dragonborn_cave.all_extra_11": "Warden Body",
   "skin_part.dragonsurvival.dragonborn_cave.all_extra_9": "Warden Tail",
@@ -114,8 +114,8 @@
   "skin_part.dragonsurvival.dragonborn_cave.spikes_5": "Asbestos Wool",
 
   "dragon_species.dragonsurvival.dragonborn_forest": "Forest Dragonborn",
-  "dragon_species.dragonsurvival.dragonborn_forest.altar.desc": "§7■ §6Forest Dragonborn§r§7 are the descendants of §fForest Dragons§r§7 and §fHumans§r§7. They combine the strength and weaknesses of both their lineages.\n\n§2■ Features:§f§r§7 soft fall, drain and growth magic, faster movement on wooden and grass blocks.\n§4■ Weakness:§r dark caves.\n§6■ Diet:§r %s",
-  "dragon_species.dragonsurvival.dragonborn_forest.banner.desc": "§7■ §6Forest Dragonborn§r§7 are the descendants of §fForest Dragons§r§7 and §fHumans§r§7. You combine the strength and weaknesses of both your lineages.\n\n§7■ You feel weak in §cdarkness§r",
+  "dragon_species.dragonsurvival.dragonborn_forest.altar.desc": "§7■ §6Forest Dragonborn§r§7 are the descendants of §fForest Dragons§r§7 and §fHumans§r§7. They combine the strengths and weaknesses of both their lineages.\n\n§2■ Features:§f§r§7 soft fall, drain and growth magic, faster movement on wooden and grass blocks.\n§4■ Weakness:§r dark caves.\n§6■ Diet:§r %s",
+  "dragon_species.dragonsurvival.dragonborn_forest.banner.desc": "§7■ §6Forest Dragonborn§r§7 are the descendants of §fForest Dragons§r§7 and §fHumans§r§7. You combine the strengths and weaknesses of both your lineages.\n\n§7■ You feel weak in §cdarkness§r",
 
   "skin_part.dragonsurvival.dragonborn_forest.all_extra_11": "Warden Body",
   "skin_part.dragonsurvival.dragonborn_forest.all_extra_9": "Warden Tail",
@@ -229,8 +229,8 @@
   "skin_part.dragonsurvival.dragonborn_forest.spikes_8": "Spineback",
 
   "dragon_species.dragonsurvival.dragonborn_sea": "Sea Dragonborn",
-  "dragon_species.dragonsurvival.dragonborn_sea.altar.desc": "§7■ §6Sea Dragonborn§r§7 are the descendants of §fSea Dragons§r§7 and §fHumans§r§7. They combine the strength and weaknesses of both their lineages.\n\n§2■ Features:§f§r§7 underwater breathing, electric magic, faster movement on wet and beach blocks.\n§4■ Weakness:§r dehydration.\n§6■ Diet:§r %s",
-  "dragon_species.dragonsurvival.dragonborn_sea.banner.desc": "§7■ §6Sea Dragonborn§r§7 are the descendants of §fSea Dragons§r§7 and §fHumans§r§7. You combine the strength and weaknesses of both your lineages.\n\n§7■ You would live forever in the §fwater§r§7, but for the sake of resources you have to leave this cozy world and be exposed to §cdryness§r§7.",
+  "dragon_species.dragonsurvival.dragonborn_sea.altar.desc": "§7■ §6Sea Dragonborn§r§7 are the descendants of §fSea Dragons§r§7 and §fHumans§r§7. They combine the strengths and weaknesses of both their lineages.\n\n§2■ Features:§f§r§7 underwater breathing, electric magic, faster movement on wet and beach blocks.\n§4■ Weakness:§r dehydration.\n§6■ Diet:§r %s",
+  "dragon_species.dragonsurvival.dragonborn_sea.banner.desc": "§7■ §6Sea Dragonborn§r§7 are the descendants of §fSea Dragons§r§7 and §fHumans§r§7. You combine the strengths and weaknesses of both your lineages.\n\n§7■ You would live forever in the §fwater§r§7, but for the sake of resources you have to leave this cozy world and be exposed to §cdryness§r§7.",
 
   "skin_part.dragonsurvival.dragonborn_sea.all_extra_11": "Warden Body",
   "skin_part.dragonsurvival.dragonborn_sea.all_extra_9": "Warden Tail",
