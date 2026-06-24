@@ -8,6 +8,8 @@
   "dragon_body.dragonsurvival.dragonborn_notail.desc": "§6■ Weak Blooded§r\n■ The draconic blood in your veins is weaker; you resemble humans more that the others.",
   "dragon_body.dragonsurvival.dragonborn.wings": "Show wings",
   "dragon_body.dragonsurvival.dragonborn.wings.desc": "Show wings",
+  "dragon_body.dragonsurvival.dragonborn_notail.wings": "Show wings",
+  "dragon_body.dragonsurvival.dragonborn_notail.wings.desc": "Show wings",
 
   "dragon_species.dragonsurvival.dragonborn_cave": "Cave Dragonborn",
   "dragon_species.dragonsurvival.dragonborn_cave.altar.desc": "§7■ §6Cave Dragonborn§r§7 are the descendants of §fCave Dragons§r§7 and §fHumans§r§7. They combine the strengths and weaknesses of both their lineages.\n\n§2■ Features:§f§r§7 fire resistance, lava magic, faster movement on stone and hot blocks.\n§4■ Weakness:§r water.\n§6■ Diet:§r %s",
